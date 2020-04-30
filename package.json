@@ -1,7 +1,7 @@
 {
   "name": "bbmrn",
   "version": "0.1.0",
-  "homepage": "https://bbmoron.github.io/bbmrn",
+  "homepage": "https://bbmoron.github.io/bbmoron.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

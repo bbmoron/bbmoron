@@ -82,6 +82,16 @@ export const App = () => {
           </Link>  
         </FooterItem>
         <FooterItem>
+          <Link href={process.env.PUBLIC_URL + '/CV.pdf'} target="_blank" rel="noopener noreferrer">
+            CV
+          </Link>
+        </FooterItem>
+        <FooterItem>
+          <Link href={process.env.PUBLIC_URL + '/hackerrank.pdf'} target="_blank" rel="noopener noreferrer">
+            Rating
+          </Link>
+        </FooterItem>
+        <FooterItem>
           <Link href="https://instagram.com/bbmxrxn" target="_blank" rel="noopener noreferrer">
             Instagram
           </Link>
