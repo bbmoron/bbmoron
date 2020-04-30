@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/bbmoron.github.io/static/js/main.fd9669ea.chunk.js",
-    "main.js.map": "/bbmoron.github.io/static/js/main.fd9669ea.chunk.js.map",
+    "main.js": "/bbmoron.github.io/static/js/main.c94d8149.chunk.js",
+    "main.js.map": "/bbmoron.github.io/static/js/main.c94d8149.chunk.js.map",
     "runtime-main.js": "/bbmoron.github.io/static/js/runtime-main.ed32c8cd.js",
     "runtime-main.js.map": "/bbmoron.github.io/static/js/runtime-main.ed32c8cd.js.map",
     "static/js/2.7ec1f834.chunk.js": "/bbmoron.github.io/static/js/2.7ec1f834.chunk.js",
     "static/js/2.7ec1f834.chunk.js.map": "/bbmoron.github.io/static/js/2.7ec1f834.chunk.js.map",
     "index.html": "/bbmoron.github.io/index.html",
-    "precache-manifest.82576803be6c2fac234af444c744b267.js": "/bbmoron.github.io/precache-manifest.82576803be6c2fac234af444c744b267.js",
+    "precache-manifest.bdc92dac395863acb4a4bbbee4bd950c.js": "/bbmoron.github.io/precache-manifest.bdc92dac395863acb4a4bbbee4bd950c.js",
     "service-worker.js": "/bbmoron.github.io/service-worker.js",
     "static/js/2.7ec1f834.chunk.js.LICENSE.txt": "/bbmoron.github.io/static/js/2.7ec1f834.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ed32c8cd.js",
     "static/js/2.7ec1f834.chunk.js",
-    "static/js/main.fd9669ea.chunk.js"
+    "static/js/main.c94d8149.chunk.js"
   ]
 }

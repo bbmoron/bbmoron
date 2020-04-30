@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bbmoron.github.io/precache-manifest.82576803be6c2fac234af444c744b267.js"
+  "/bbmoron.github.io/precache-manifest.bdc92dac395863acb4a4bbbee4bd950c.js"
 );
 
 self.addEventListener('message', (event) => {
