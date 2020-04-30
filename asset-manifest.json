@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/bbmrn/static/js/main.b5b7f4f0.chunk.js",
-    "main.js.map": "/bbmrn/static/js/main.b5b7f4f0.chunk.js.map",
-    "runtime-main.js": "/bbmrn/static/js/runtime-main.e56df4a0.js",
-    "runtime-main.js.map": "/bbmrn/static/js/runtime-main.e56df4a0.js.map",
-    "static/js/2.c62e84d9.chunk.js": "/bbmrn/static/js/2.c62e84d9.chunk.js",
-    "static/js/2.c62e84d9.chunk.js.map": "/bbmrn/static/js/2.c62e84d9.chunk.js.map",
-    "index.html": "/bbmrn/index.html",
-    "precache-manifest.f1abb2579c20c55842ac9d3cc81700ae.js": "/bbmrn/precache-manifest.f1abb2579c20c55842ac9d3cc81700ae.js",
-    "service-worker.js": "/bbmrn/service-worker.js",
-    "static/js/2.c62e84d9.chunk.js.LICENSE.txt": "/bbmrn/static/js/2.c62e84d9.chunk.js.LICENSE.txt"
+    "main.js": "/bbmoron.github.io/static/js/main.fd9669ea.chunk.js",
+    "main.js.map": "/bbmoron.github.io/static/js/main.fd9669ea.chunk.js.map",
+    "runtime-main.js": "/bbmoron.github.io/static/js/runtime-main.ed32c8cd.js",
+    "runtime-main.js.map": "/bbmoron.github.io/static/js/runtime-main.ed32c8cd.js.map",
+    "static/js/2.7ec1f834.chunk.js": "/bbmoron.github.io/static/js/2.7ec1f834.chunk.js",
+    "static/js/2.7ec1f834.chunk.js.map": "/bbmoron.github.io/static/js/2.7ec1f834.chunk.js.map",
+    "index.html": "/bbmoron.github.io/index.html",
+    "precache-manifest.82576803be6c2fac234af444c744b267.js": "/bbmoron.github.io/precache-manifest.82576803be6c2fac234af444c744b267.js",
+    "service-worker.js": "/bbmoron.github.io/service-worker.js",
+    "static/js/2.7ec1f834.chunk.js.LICENSE.txt": "/bbmoron.github.io/static/js/2.7ec1f834.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e56df4a0.js",
-    "static/js/2.c62e84d9.chunk.js",
-    "static/js/main.b5b7f4f0.chunk.js"
+    "static/js/runtime-main.ed32c8cd.js",
+    "static/js/2.7ec1f834.chunk.js",
+    "static/js/main.fd9669ea.chunk.js"
   ]
 }
